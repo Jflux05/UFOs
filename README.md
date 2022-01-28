@@ -9,18 +9,18 @@ Software: JavaScript, Visual Studio Code v1.63.2, BootStrap 4, HTML, CSS
 
 ## Results: 
 The webpage (Needs link)UFO Sightings - The Truth is Out There has been created. Upon entering, visitors embarking on their "first encounter" will see:
-website screenshot needed
+![UFO's landing page.png](https://github.com/Jflux05/UFOs/blob/2d6405ccfa08f37daece2963fbb7904ea40359f8/Resources/UFO's%20landing%20page.png)
 
 You will notice that a "Filter Search" section has been added.
-screenshot of filter search fields
+![UFOs landing page search filter.png](https://github.com/Jflux05/UFOs/blob/2d6405ccfa08f37daece2963fbb7904ea40359f8/Resources/UFOs%20landing%20page%20search%20filter.png)
 
 
 You can filter by one or all of the search criteria shown. For example, if you search by "City", you will see that the table updated to show the reported sightings that was recorded for that specific city.
-Screenshot of data filter by city
+![UFOs search by city.png](https://github.com/Jflux05/UFOs/blob/2d6405ccfa08f37daece2963fbb7904ea40359f8/Resources/UFOs%20search%20by%20city.png)
 
 
 If you add a shape, the table will update filtering further to only display the information containing that shape.
-show screenshot of filtering by city and shape
+![UFOs search by city and shape.png](https://github.com/Jflux05/UFOs/blob/2d6405ccfa08f37daece2963fbb7904ea40359f8/Resources/UFOs%20search%20by%20city%20and%20shape.png)
 
 
 ## Summary
