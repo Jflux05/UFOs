@@ -11,7 +11,10 @@ Software: JavaScript, Visual Studio Code v1.63.2, BootStrap 4, HTML, CSS
 The webpage (Needs link)UFO Sightings - The Truth is Out There has been created. Upon entering, visitors embarking on their "first encounter" will see:
 ![UFO's landing page.png](https://github.com/Jflux05/UFOs/blob/2d6405ccfa08f37daece2963fbb7904ea40359f8/Resources/UFO's%20landing%20page.png)
 
+
+
 You will notice that a "Filter Search" section has been added.
+
 ![UFOs landing page search filter.png](https://github.com/Jflux05/UFOs/blob/2d6405ccfa08f37daece2963fbb7904ea40359f8/Resources/UFOs%20landing%20page%20search%20filter.png)
 
 
